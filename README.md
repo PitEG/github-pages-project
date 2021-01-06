@@ -22,4 +22,4 @@ is_true(bool a) {
 ```
 
 Here's a picture of a pancake that may or may not be my profile picture on other things
-[pancake](/panckace.jpeg)
+![pancake](/panckace.jpeg)
