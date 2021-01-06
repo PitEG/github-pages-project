@@ -39,4 +39,4 @@ Here's a picture of a pancake that may or may not be my profile picture on other
 ![pancake](/panckace.jpeg)
 
 Here's a picture of a scary bird
-![bird](/bird.png)
+![bird](/bid.png)
