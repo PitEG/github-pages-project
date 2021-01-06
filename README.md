@@ -21,5 +21,8 @@ is_true(bool a) {
 
 ```
 
+The UCSD CSE MOTTO:
+> Start early. Start often.
+
 Here's a picture of a pancake that may or may not be my profile picture on other things
 ![pancake](/panckace.jpeg)
