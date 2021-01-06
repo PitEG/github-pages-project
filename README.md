@@ -8,7 +8,7 @@ Hi *There*!
 * C#
 * C
 
-My favorite snippet of code is
+## My favorite snippet of code is
 ```
 is_true(bool a) {
   if (a == true) {
@@ -21,8 +21,16 @@ is_true(bool a) {
 
 ```
 
-The UCSD CSE MOTTO:
+:thinking:
+
+## The UCSD CSE MOTTO:
 > Start early. Start often.
+
+## TODO
+- [x] Wakeup
+- [ ] Eat Breakfast
+- [ ] Do Homework
+- [x] Play Video Games
 
 Here's a picture of a pancake that may or may not be my profile picture on other things
 ![pancake](/panckace.jpeg)
