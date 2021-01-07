@@ -10,7 +10,7 @@ Hi *There*!
 
 ## My favorite snippet of code is
 ```
-is_true(bool a) {
+bool is_true(bool a) {
   if (a == true) {
     return true;
   }
